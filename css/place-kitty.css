@@ -15,7 +15,6 @@
 }
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
-
 #basket {
   position: absolute;
   z-index: 5;
